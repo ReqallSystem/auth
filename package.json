@@ -1,6 +1,6 @@
 {
   "name": "@reqall/auth",
-  "version": "2026.2.1",
+  "version": "2026.3.1",
   "description": "CLI authentication for Reqall plugins",
   "type": "module",
   "bin": {
@@ -14,7 +14,7 @@
     "dist"
   ],
   "dependencies": {
-    "@reqall/core": "^2026.2.1"
+    "@reqall/core": "^2026.3.1"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
